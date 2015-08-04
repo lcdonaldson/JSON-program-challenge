@@ -78,5 +78,64 @@
       "programId": 3,
       "course": "AMS 431: Gender Studies"
     }    
+  ],
+  "alerts": [
+    {
+      "date": "2012-04-23T18:25:43.511Z",
+      "user": "briglx",
+      "branch": "master",
+      "repo": "RockitRepo",
+      "img": "http://avatars1.githubusercontent.com/u/1304774?v=3&amp;s=60",
+      "comment": "Updated README"
+    },
+    {
+      "date": "2012-05-23T18:25:43.511Z",
+      "user": "briglx",
+      "branch": "master",
+      "repo": "RockitRepo",
+      "img": "http://avatars1.githubusercontent.com/u/1304774?v=3&amp;s=60",
+      "comment": "Updated README"
+    },
+    {
+      "date": "2012-04-23T18:25:43.511Z",
+      "user": "briglx",
+      "branch": "master",
+      "repo": "RockitRepo",
+      "img": "http://avatars1.githubusercontent.com/u/1304774?v=3&amp;s=60",
+      "comment": "Updated README"
+    },
+    {
+      "date": "2012-04-23T18:25:43.511Z",
+      "user": "briglx",
+      "branch": "master",
+      "repo": "RockitRepo",
+      "img": "http://avatars1.githubusercontent.com/u/1304774?v=3&amp;s=60",
+      "comment": "Updated README"
+    },
+    {
+      "date": "2012-04-23T18:25:43.511Z",
+      "user": "briglx",
+      "branch": "master",
+      "repo": "RockitRepo",
+      "img": "http://avatars1.githubusercontent.com/u/1304774?v=3&amp;s=60",
+      "comment": "Updated README"
+    },
+    {
+      "date": "2012-04-23T18:25:43.511Z",
+      "user": "briglx",
+      "branch": "master",
+      "repo": "RockitRepo",
+      "img": "http://avatars1.githubusercontent.com/u/1304774?v=3&amp;s=60",
+      "comment": "Updated README"
+    },
+    {
+      "date": "2012-04-23T18:25:43.511Z",
+      "user": "briglx",
+      "branch": "master",
+      "repo": "RockitRepo",
+      "img": "http://avatars1.githubusercontent.com/u/1304774?v=3&amp;s=60",
+      "comment": "Updated README"
+    }
+
   ]
 }
