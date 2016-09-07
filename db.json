@@ -77,7 +77,11 @@
     {
       "programId": 3,
       "course": "AMS 432: Conservative Studies"
-    } 
+    },
+    {
+      "programId": 4,
+      "course": "DRM 102: World of Drama"
+    }
   ],
   "alerts": [
     {
